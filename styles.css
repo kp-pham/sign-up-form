@@ -59,6 +59,13 @@ body {
     color: white;
 }
 
+.caption a:link,
+.caption a:visited,
+.caption a:hover,
+.caption a:active {
+    color: white;
+}
+
 .sign-up {
     background-color: #F9FAFC;
 }
@@ -104,3 +111,4 @@ button {
     background-color: #596D48;
     color: white;
 }
+
