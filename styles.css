@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'norsebold';
+    src: url('fonts/norse-bold-webfont.woff2') format('woff2'),
+         url('fonts/norse-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     display: flex;
     margin: 0;
@@ -17,5 +25,7 @@ body {
 .logo {
     position: absolute;
     top: 20%;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: "norsebold";
 }
