@@ -12,8 +12,10 @@ body {
     padding: 0;
 }
 
-.background {
+.image-sidebar {
     position: relative;
+    width: 40vw;
+    height: 100vh;
 }
 
 .image-sidebar img {
