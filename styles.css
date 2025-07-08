@@ -60,6 +60,16 @@ body {
     font-weight: 600;
 }
 
+fieldset {
+    border: none;
+    background-color: white;
+    box-shadow: 1px 1px 4px -2px;
+}
+
+legend {
+    font-weight: 600;
+}
+
 input {
     border: 1px solid #E5E7EB;
     border-radius: 2px;
