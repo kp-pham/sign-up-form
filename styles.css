@@ -114,3 +114,11 @@ button {
     color: white;
 }
 
+.login a:link,
+.login a:visited,
+.login a:hover,
+.login a:active {
+    text-decoration: none;
+    color: #596D48;
+    font-weight: bold;
+}
