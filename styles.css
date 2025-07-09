@@ -17,6 +17,7 @@ body {
     position: relative;
     width: 40vw;
     height: 100vh;
+    flex-basis: 40%;
 }
 
 .image-sidebar img {
