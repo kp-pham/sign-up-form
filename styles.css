@@ -110,6 +110,10 @@ input:focus {
 }
 
 button {
+    border: none;
+    border-radius: 4px;
+    padding: 10px 30px;
+    box-shadow: 1px 1px 4px -2px black;
     background-color: #596D48;
     color: white;
 }
