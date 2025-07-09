@@ -71,11 +71,21 @@ body {
 
 .sign-up {
     background-color: #F9FAFC;
+    flex-basis: 60%;
 }
 
 .call-to-action {
     font-weight: 600;
+    font-size: 18px;
+    padding: 0 40px;
 }
+
+.notice {
+    width: 52ch;
+    text-wrap: wrap;
+}
+
+
 
 fieldset {
     position: relative;
