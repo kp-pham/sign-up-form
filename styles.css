@@ -89,6 +89,10 @@ body {
     text-wrap: wrap;
 }
 
+.hook {
+    margin: 20px 0 0 0;
+}
+
 fieldset {
     position: relative;
     display: flex;
@@ -142,7 +146,7 @@ button {
     border: none;
     border-radius: 4px;
     padding: 10px 30px;
-    margin:  40px 0 0 40px;
+    margin:  20px 0 0 40px;
     box-shadow: 1px 1px 4px -2px black;
     background-color: #596D48;
     color: white;
