@@ -77,13 +77,22 @@ body {
 }
 
 fieldset {
+    position: relative;
     display: flex;
     flex-direction: column;
-    padding: 0;
+    gap: 20px;
+    padding: 40px;
     margin: 0;
     border: none;
     background-color: white;
     box-shadow: 1px 1px 4px -2px;
+    font-weight: 600;
+}
+
+legend {
+    position: absolute;
+    top: 5%;
+    font-size: 18px;
 }
 
 .user-info,
@@ -98,10 +107,6 @@ fieldset {
     flex-direction: column;
     flex-basis: 20%;
     font-size: 10px;
-}
-
-legend {
-    font-weight: 600;
 }
 
 input {
