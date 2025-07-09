@@ -86,7 +86,6 @@ body {
 
 .notice {
     width: 52ch;
-    text-wrap: wrap;
 }
 
 .hook {
